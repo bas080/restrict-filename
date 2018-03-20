@@ -28,7 +28,7 @@ library:
   source-dirs: src
 
 executables:
-  restrict-filename-exe:
+  restrict-filename:
     main:                Main.hs
     source-dirs:         app
     ghc-options:

@@ -35,6 +35,8 @@ cd restrict-filename
 stack install
 ```
 
+You should be able to run the `restrict-filename` command from the prompt.
+
 # Options
 
 Type `restrict-filename --help` to see see command options
